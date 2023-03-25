@@ -1,0 +1,20 @@
+antes de começar (tem q tar cadastrado o nome e mail pelo comando --globlal)
+
+- git init
+
+- git status
+
+- git add "...." ou adicinar tudo só botar o . (adidicionar oq tem dentro da pasta )
+
+- git commit -m "commit inicial"
+
+- git push  (quando já foi criado 1º vez aqui já acaba )
+
+-git remote add origin (colar repositório GITHUB e adcionar readme.me )
+
+-git push
+
+-git push --set-upstream origin master (ou só copiar dentro do git bash)
+
+
+-aí só falta logar com login e  autenticaçao do GITHUB
