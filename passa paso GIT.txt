@@ -1,20 +1,30 @@
-antes de começar (tem q tar cadastrado o nome e mail pelo comando --globlal)
+antes de comeÃ§ar (tem q tar cadastrado o nome e mail pelo comando --globlal)
 
 - git init
 
 - git status
 
-- git add "...." ou adicinar tudo só botar o . (adidicionar oq tem dentro da pasta )
+- git add "...." ou adicinar tudo sÃ³ botar o . (adidicionar oq tem dentro da pasta )
 
 - git commit -m "commit inicial"
 
-- git push  (quando já foi criado 1º vez aqui já acaba )
+- git push  (quando jÃ¡ foi criado 1Âº vez aqui jÃ¡ acaba )
 
--git remote add origin (colar repositório GITHUB e adcionar readme.me )
+-git remote add origin (colar repositÃ³rio GITHUB e adcionar readme.me )
 
 -git push
 
--git push --set-upstream origin master (ou só copiar dentro do git bash)
+-git push --set-upstream origin master (ou sÃ³ copiar dentro do git bash)
 
 
--aí só falta logar com login e  autenticaçao do GITHUB
+-aÃ­ sÃ³ falta logar com login e  autenticaÃ§ao do GITHUB(por enquanto Ã© sem senha)
+
+
+
+-----------------------------outros----
+
+-caso tenha confilto warning:
+git config --global core.autocrlf false
+
+-caso tenta reenviar tem q apagar a pasta oculta git
+
